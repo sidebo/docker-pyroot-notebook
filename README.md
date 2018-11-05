@@ -5,3 +5,4 @@ Run with e.g.
 `docker run -p 3000:8080 pedwink/pyroot-notebook`
 
 and then access through localhost:3000 in your browser.
+The Dockerfile lives here: https://github.com/sidebo/docker-pyroot-notebook
